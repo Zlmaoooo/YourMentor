@@ -3,7 +3,7 @@
 
 YourMentor, the bootcamp that originated during your first year at Btesh CSE at ADTU in 2028, has left a lasting impact on your academic journey. It was a dynamic initiative created by your seniors, designed to introduce newcomers to the world of programming. The inaugural year focused specifically on C programming, providing a solid foundation in coding and problem-solving.
 
-The sessions, led by the engaging Lungsom Lamnio (often referred to as "Senior"), were held live on Google Meet, creating an interactive learning environment that fostered collaboration and camaraderie among participants. These sessions were not just educational; they were also enjoyable and infused with a sense of community, making complex concepts more accessible and less intimidating.
+The sessions, led by the engaging Lungsom Lamnio (often referred to as "Senior" or "lungsom bhaiya"), were held live on Google Meet, creating an interactive learning environment that fostered collaboration and camaraderie among participants. These sessions were not just educational; they were also enjoyable and infused with a sense of community, making complex concepts more accessible and less intimidating.
 
 Throughout the bootcamp, you delved into various essential topics, such as:
 
