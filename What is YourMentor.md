@@ -1,4 +1,4 @@
-# About YourMentor 👇
+# About YourMentor(BootCamp) 👇
 
 
 YourMentor, the bootcamp that originated during my first year at Btesh CSE at ADTU in 2028, has left a lasting impact on my academic journey. It was a dynamic initiative created by my seniors, designed to introduce newcomers to the world of programming. The inaugural year focused specifically on C programming, providing a solid foundation in coding and problem-solving.
