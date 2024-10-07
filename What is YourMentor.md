@@ -33,4 +33,4 @@ Overall, YourMentor was more than just a bootcamp; it was a transformative exper
 
 Lungsom Lamnio the creator and founder of YourMentor: -
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LungsomLamnio)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LungsomLamnio)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lungsom-lamnio-339914282/)
