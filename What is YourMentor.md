@@ -28,3 +28,9 @@ The bootcamp created a supportive network of peers and seniors. Sharing experien
 The notes I compiled during the sessions became a valuable resource, capturing not just the technical aspects but also the enthusiasm and spirit of learning that characterized YourMentor. Reflecting on this experience, it's clear that it played a crucial role in shaping my programming skills and igniting my passion for computer science.
 
 Overall, YourMentor was more than just a bootcamp; it was a transformative experience that laid the groundwork for my future endeavors in the field of technology.
+
+# Do check out YourMentor's Founder profile
+
+Lungsom Lamnio the creator and founder of YourMentor: -
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)(https://github.com/LungsomLamnio)
